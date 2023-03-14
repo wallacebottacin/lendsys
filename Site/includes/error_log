@@ -1,0 +1,6 @@
+[14-Oct-2021 12:40:31 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/dbh.inc.php on line 9
+[14-Oct-2021 12:40:31 America/Fortaleza] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/login.inc.php on line 11
+[14-Oct-2021 12:40:31 America/Fortaleza] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/login.inc.php on line 12
+[14-Oct-2021 12:40:39 America/Fortaleza] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/dbh.inc.php on line 9
+[14-Oct-2021 12:40:39 America/Fortaleza] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/login.inc.php on line 11
+[14-Oct-2021 12:40:39 America/Fortaleza] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home3/wallac58/lendsys.wallacebottacin.com.br/includes/login.inc.php on line 12
